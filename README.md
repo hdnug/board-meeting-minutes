@@ -7,3 +7,4 @@ Minutes from the monthly board meetings
 * [22 April 2017](2017-04-22.md)
 * [22 May 2017](2017-05-22.md)
 * [17 June 2017](2017-06-17.md)
+* [30 December 2017](2017-12-30.md)
